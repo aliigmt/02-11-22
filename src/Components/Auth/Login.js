@@ -5,6 +5,7 @@ export default function Login() {
 <div className="container">
 	<div className="screen">
 		<div className="screen__content">
+    <div className='login-title'>Login</div>
 			<form className="login">
 				<div className="login__field">
 					<i className="login__icon fas fa-user"></i>
